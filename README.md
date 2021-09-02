@@ -10,9 +10,7 @@ May be smoothly is an overstatement, IT WILL TAKE LONG TIME to run, specially in
 (I do not own or am related in any way to Stacks people. Is a good useful pipeline for SNP calling: http://catchenlab.life.illinois.edu/stacks/)
 
 Some population based analysis could fail if the sample names in the vcf file do not include the population names in their codename:
-POP1_001; or popA002; or CoolPlace042; etc
-
-You may solve that by using a popmap (file with one sample per row, first column with sample name, second column with population name). There is a popmap_maker in other of my repositories.
+POP1_001; or popA002; or CoolPlace042; etc. You may solve that by using a popmap (file with one sample per row, first column with sample name, second column with population name). There is a popmap_maker in other of my repositories.
 
 The program has many option and flags that can be used to change its behaviour or to adapt it to your file format. There is no need to edit the script unless you also want to change the defaults.
 
