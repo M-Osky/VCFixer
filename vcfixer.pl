@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use strict ; use warnings;
 
-# vcf_subseter   			# by M'Óscar 
+# vcfixer   			# by M'Óscar 
 my $version = "vcfixer_1.5.pl";
 my $edited = "30.VII.2020";
 
