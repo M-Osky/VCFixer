@@ -14,7 +14,7 @@ Some population based analysis could fail if the sample names in the vcf file do
 POP1_001; or popA002; or CoolPlace042; etc. 
 You may solve that by using a popmap (file with one sample per row, first column with sample name, second column with population name). There is a `popmap_maker` [in other of my repositories](https://github.com/M-Osky/handle_edit_files).
 
-`vcfixer`has many option and flags that can be used to change its behaviour or to adapt it to your file format.
+`vcfixer` has many option and flags that can be used to change its behaviour or to adapt it to your file format.
 
 ### To see the full information, usage, arguments, and settings just use any of the usual help flags (-h --h help -help --help).
 
