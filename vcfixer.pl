@@ -9,8 +9,9 @@ my $edited = "30.VII.2020";
 
 # Use this script to clean VCF files from missing values
 # It works as dataset_fixer.sh and vcf_fixer
-# For options, usage and other information check the help information with "help" or "h" or so...
+# For options and other information check the help information with "help" or "h" or so...
 # vcf_missing.pl --help
+# Usage: https://github.com/M-Osky/VCFixer
 
 
 
